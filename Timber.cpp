@@ -77,7 +77,7 @@ int main()
     float timeBarStartWidth = 400;
     float timeBarHeight = 80;
     timeBar.setSize(Vector2f(timeBarStartWidth, timeBarHeight));
-    timeBar.setFillColor(Color::Red);
+    timeBar.setFillColor(Color::Blue);
     timeBar.setPosition((1920 / 2) - timeBarStartWidth / 2, 980);
 
     Time gameTimeTotal;
