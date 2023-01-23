@@ -1,10 +1,10 @@
 ﻿  Timber.cpp
-C:\Users\newgi\SFML\Projects\Timber\Timber.cpp(97,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\newgi\SFML\Projects\Timber\Timber.cpp(100,26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-C:\Users\newgi\SFML\Projects\Timber\Timber.cpp(123,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\newgi\SFML\Projects\Timber\Timber.cpp(126,26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-C:\Users\newgi\SFML\Projects\Timber\Timber.cpp(144,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\newgi\SFML\Projects\Timber\Timber.cpp(147,26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-C:\Users\newgi\SFML\Projects\Timber\Timber.cpp(168,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\newgi\SFML\Projects\Timber\Timber.cpp(171,26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\newgi\SFML\Projects\Timber\Timber.cpp(138,43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\newgi\SFML\Projects\Timber\Timber.cpp(141,30): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\newgi\SFML\Projects\Timber\Timber.cpp(165,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\newgi\SFML\Projects\Timber\Timber.cpp(168,30): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\newgi\SFML\Projects\Timber\Timber.cpp(186,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\newgi\SFML\Projects\Timber\Timber.cpp(189,30): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\newgi\SFML\Projects\Timber\Timber.cpp(210,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\newgi\SFML\Projects\Timber\Timber.cpp(213,30): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
   Timber.vcxproj -> C:\Users\newgi\SFML\Projects\Timber\x64\Debug\Timber.exe
